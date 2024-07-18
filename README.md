@@ -1,3 +1,5 @@
+# "Python Lesson"
+A lesson to introduce 6-8th graders to Python
 # Lesson Plan Template
 This file serves as the primary lesson plan document for the repository.
 
